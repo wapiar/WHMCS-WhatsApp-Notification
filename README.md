@@ -166,17 +166,7 @@ Watch the full setup and integration tutorial here:
 | Phone Number Format | Include country code only |
 | Sender ID | Your phone/device number (without +) |
 
-👉 Get your API key from [https://wa.wapiar.com](https://wa.wapiar.com)
-
----
-
-## 🧪 Test Gateway
-1. Write any message in **Message Content**.  
-2. Add your receiver number in **Phone Number**.  
-3. Click **Test** → You’ll get response:  
-   ```
-   { "Success": true }
-   ```
+👉 Get your API key from [https://.wapiar.com
 
 
 ---
