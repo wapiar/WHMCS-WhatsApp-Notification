@@ -20,13 +20,100 @@
 > It’s built to deliver seamless automation, reliable message delivery, and zero-config simplicity.
 
 ---
+## Integration Video Guide
 
-## 🚀 Features
-- Easy integration with WordPress & WooCommerce  
-- Custom WhatsApp Gateway support  
-- Instant message delivery  
-- API-based communication  
-- Clean dashboard and intuitive setup  
+[![Watch the WAPIAR Integration Guide](https://img.youtube.com/vi/wysIKM8dNlc/hqdefault.jpg)](https://www.youtube.com/watch?v=wysIKM8dNlc)
+> 🎥 Click the thumbnail above to watch the complete integration setup guide
+
+---
+
+## Installation
+
+### 🧠 Watch Guide Video  
+Before proceeding, watch the integration guide for a complete step-by-step visual setup.
+
+🎬 [Watch Video Tutorial](https://www.youtube.com/watch?v=wysIKM8dNlc)
+
+### ⚙️ Manual Installation  
+1. Upload the module files to your WHMCS root directory  
+2. Go to **WHMCS Admin → Setup → Addon Modules → Activate WAPIAR Notification**  
+3. Enter your WAPIAR API key and save  
+4. Configure notification events and templates  
+5. Test connection and enjoy real-time WhatsApp alerts  
+
+> ⚠️ **Note:** Current module doesn’t support emojis yet — we’re working on v2.0 with emoji and media support.
+
+---
+
+## All Client Notifications (WHMCS Module)
+
+- InvoicePaymentReminder  
+- TicketAdminReply  
+- AfterModuleChangePassword  
+- TicketClose  
+- DomainRenewalNotice  
+- AfterRegistrarRegistrationFailed  
+- AcceptOrder  
+- InvoicePaymentReminderSecond  
+- ClientChangePassword  
+- AfterRegistrarRenewal  
+- InvoiceCreated  
+- ClientAdd  
+- AfterModuleSuspend  
+- InvoicePaid  
+- AfterRegistrarRegistration  
+- InvoicePaymentReminderFirst  
+- AfterModuleUnsuspend  
+- AfterModuleCreate  
+- InvoicePaymentReminderThird  
+- AfterModuleChangePackage  
+
+---
+
+## All Admin Notifications (WHMCS Module)
+
+- TicketUserReplyAdmin  
+- UserLogin  
+- AfterRegistrarRegistrationAdmin  
+- AfterRegistrarRegistrationFailedAdmin  
+- AfterRegistrarRenewalFailedAdmin  
+- AdminLogin  
+- TicketOpenAdmin  
+- AfterRegistrarRenewalAdmin  
+
+---
+
+## Our App’s Top Features
+
+- Responsive Design – Adapts perfectly to all screen sizes  
+- Fast Loading – Optimized for speed and performance  
+- User Friendly – Clean, intuitive interface  
+- Secure & Safe – 256-bit encryption and advanced data protection  
+- Free Support – 24/7 assistance  
+- Regular Updates – New features and fixes  
+- Customizable – Full flexibility  
+- Cross Platform – Works on all OS and browsers  
+- Easy Integration – Simple setup with WordPress, WooCommerce & WHMCS  
+- Analytics Dashboard – Track performance easily  
+- Connect Devices – Link WhatsApp via QR  
+- Call Rejects – Block spam calls  
+- Custom Delay – Random delay for safe messaging  
+- File Manager – Store and reuse media  
+- Phone Book – Manage and group contacts  
+- Import Contacts – Bulk import from CSV  
+- Fetch Numbers – Instantly retrieve WhatsApp contacts  
+- Auto Flow Bot – Smart keyword-based automation  
+- AI Bot – Integrate ChatGPT, Gemini, or Bexa  
+- Send Bulk Campaigns – With text, media, or buttons  
+- Media Button Campaigns – Boost engagement  
+- Product Campaigns – Share products directly  
+- Scheduled Campaigns – Auto-send at chosen time  
+- Test Messages – Preview before going live  
+- 2FA Security – Protect your WhatsApp  
+- Time Zone Control – Perfect timing for campaigns  
+
+---
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c004af1f-7738-4b0e-9c75-5e80304ed303" width="90%" alt="WAPIAR Features"/>
