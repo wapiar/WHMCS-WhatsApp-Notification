@@ -11,11 +11,26 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9284036c-ba34-46dd-b46e-5926ae3408a8" alt="WAPIAR Hero Section"/>
+  <img src="https://github.com/user-attachments/assets/9284036c-ba34-46dd-b46e-5926ae3408a8" alt="WAPIAR Hero Section" width="100%" />
 </p>
 
-> **WAPIAR** integrates WhatsApp notifications directly into your **WHMCS system** using a secure and automated gateway.  
-> Designed for hosting companies and digital service providers who want real-time communication and event-triggered automation.
+> **WAPIAR** brings powerful WhatsApp integration directly into your **WHMCS billing platform**.  
+> It enables your business to send real-time notifications, automate client communication, and stay connected with customers effortlessly.  
+> Designed for hosting companies, digital agencies, and IT providers looking to scale smartly with automation.
+
+---
+
+## Why WAPIAR WhatsApp Integration?
+
+Managing client communication can be a hassle — missed tickets, payment reminders, or failed domain renewals can impact your service reputation.  
+With WAPIAR, every WHMCS event is automatically connected to WhatsApp, allowing instant alerts, client updates, and full control of communication.
+
+**What makes WAPIAR stand out?**
+- Zero complex setup — install and activate within minutes.  
+- Custom gateway structure to fit your API.  
+- No additional third-party apps or monthly limitations.  
+- Supports multiple notification types and events (both client and admin).  
+- Backed by reliable cloud infrastructure powered by [HOYIST](https://hoyist.com).
 
 ---
 
@@ -44,25 +59,37 @@
 
 ## Integration Guide Video
 
-<p align="center">
-  <iframe width="800" height="450" src="https://www.youtube.com/embed/wysIKM8dNlc" title="WAPIAR Integration Guide" frameborder="0" allowfullscreen></iframe>
+<p align="center" style="margin-top: 30px;">
+  <a href="https://www.youtube.com/watch?v=wysIKM8dNlc" target="_blank" style="text-decoration: none;">
+    <span style="font-size: 32px; font-weight: 700; color: #00AEEF; text-shadow: 0px 0px 6px rgba(0,174,239,0.6);">
+      ▶ Watch the Full Integration Guide Video Below
+    </span>
+  </a>
 </p>
 
-<p align="center"><b>Watch the complete integration setup guide above</b></p>
+> The video above walks through every step of connecting your WHMCS with WAPIAR’s WhatsApp gateway — including activation, configuration, and testing.
 
 ---
 
 ## Manual Installation (WHMCS)
 
-1. Upload the module files to your WHMCS root directory  
-2. Go to **WHMCS Admin → Setup → Addon Modules → Activate WAPIAR Notification**  
-3. Enter your WAPIAR API key and save  
-4. Configure notification events and templates  
-5. Test connection and enjoy real-time WhatsApp alerts  
+Follow the steps below for manual setup:
+
+1. Upload the module folder into your WHMCS root directory via FTP or File Manager.  
+2. Log in to **WHMCS Admin → Setup → Addon Modules** and activate the **WAPIAR WhatsApp Notification** module.  
+3. Open the module settings, enter your **WAPIAR API Key**, and click **Save Changes**.  
+4. Under **Configuration**, map your desired notification events and assign message templates.  
+5. Run a **Test Notification** to confirm the connection.  
+6. That’s it — WhatsApp automation is live.
+
+> **Note:** The current module doesn’t support emojis or file attachments yet.  
+> **Version 2.0** (coming soon) will include emoji support, multimedia templates, and improved delivery reports.
 
 ---
 
-## All Client Notifications
+## Supported Client Notifications
+
+The WAPIAR module supports all essential WHMCS client events out-of-the-box:
 
 - InvoicePaymentReminder  
 - TicketAdminReply  
@@ -87,7 +114,9 @@
 
 ---
 
-## All Admin Notifications
+## Supported Admin Notifications
+
+Keep your team in the loop with automated admin messages for important WHMCS events:
 
 - TicketUserReplyAdmin  
 - UserLogin  
@@ -102,21 +131,30 @@
 
 ## Top Features
 
-- Responsive Design  
-- Fast Loading  
-- Secure 256-bit encryption  
-- 24/7 Support  
-- Regular Updates  
-- Fully Customizable  
-- WHMCS Native Integration  
-- Cross-Platform  
-- Analytics Dashboard  
-- Bulk Campaigns  
-- AI Bot Integration  
-- 2FA Security  
-- Call Rejects  
-- Time Zone Control  
-- Device Link via QR  
+**Performance & Control**
+- Responsive interface optimized for desktop and mobile  
+- Fast loading with minimal resource usage  
+- Integrated analytics for message tracking  
+
+**Automation**
+- Send bulk campaigns with custom message formats  
+- Smart scheduling based on time zone  
+- Message delay randomization to avoid WhatsApp flags  
+
+**Security**
+- 256-bit encryption on all gateway requests  
+- 2FA login security for account protection  
+- Encrypted API communication  
+
+**Integration**
+- WHMCS native compatibility  
+- Easy gateway setup via API  
+- Compatible with future WAPIAR ecosystem updates  
+
+**Management**
+- File Manager to upload and reuse campaign media  
+- Phone Book for bulk contact import and group segmentation  
+- Auto Bot & AI Integration (ChatGPT, Gemini, Bexa supported)  
 
 ---
 
@@ -131,8 +169,9 @@ Whmcs whatsapp module
 ---
 
 ## Credits
-Special thanks to the **[HOYIST Team](https://hoyist.com)** for powering our infrastructure.  
-Made with ❤️ by [WAPIAR](https://wapiar.com)
+
+Special thanks to the **[HOYIST Team](https://hoyist.com)** for powering our infrastructure and backend systems.  
+Developed and maintained by the **[WAPIAR](https://wapiar.com)** Dev Team — delivering automation for next-gen hosting providers.
 
 ---
 
