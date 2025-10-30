@@ -24,7 +24,25 @@
 
 [![Watch the WAPIAR Integration Guide](https://img.youtube.com/vi/wysIKM8dNlc/hqdefault.jpg)](https://www.youtube.com/watch?v=wysIKM8dNlc)
 > 🎥 Click the thumbnail above to watch the complete integration setup guide
+---
 
+## 🎥 Integration Guide Video
+Watch the full setup and integration tutorial here:  
+▶️ [WAPIAR WhatsApp Integration Guide](https://www.youtube.com/watch?v=wysIKM8dNlc)
+
+---
+
+## 💰 Pricing & Plans
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23a31cbe-2946-4b97-b433-db7927fe2b8a" width="90%" alt="WAPIAR Pricing"/>
+</p>
+
+---
+
+## 🔗 Integrations
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26d36856-287b-46ab-b206-832029e375e4" width="90%" alt="WAPIAR Integrations"/>
+</p>
 ---
 
 ## Installation
@@ -157,25 +175,6 @@ Before proceeding, watch the integration guide for a complete step-by-step visua
    { "Success": true }
    ```
 
----
-
-## 🎥 Integration Guide Video
-Watch the full setup and integration tutorial here:  
-▶️ [WAPIAR WhatsApp Integration Guide](https://www.youtube.com/watch?v=wysIKM8dNlc)
-
----
-
-## 💰 Pricing & Plans
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/23a31cbe-2946-4b97-b433-db7927fe2b8a" width="90%" alt="WAPIAR Pricing"/>
-</p>
-
----
-
-## 🔗 Integrations
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/26d36856-287b-46ab-b206-832029e375e4" width="90%" alt="WAPIAR Integrations"/>
-</p>
 
 ---
 
