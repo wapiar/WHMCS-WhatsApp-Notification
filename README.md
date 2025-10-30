@@ -344,14 +344,10 @@ We're so confident in our solution that we offer:
 
 [![FREE WHMCS INTEGRATION](https://img.shields.io/badge/START_Now_7_Days_Money_Back_Guaranteed-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black&fontSize=20&width=300)](https://wapiar.com/pricing)
 
-**or**
-
-
-[![VIEW PRICING](https://img.shields.io/badge/PRICING_PLANS-7C3AED?style=for-the-badge&logo=credit-card&logoColor=white&labelColor=black&fontSize=18&width=250)](https://wapiar.com/pricing)
 
 <br>
 
-*Join 1,000+ WHMCS businesses that have transformed their client communication and boosted revenue*
+*You know what’s crazy? We onboarded over 100 web hosts in just our first 5 days!*
 
 </div>
 
