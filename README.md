@@ -142,33 +142,6 @@ Watch the full setup and integration tutorial here:
 
 ---
 
-## ⚙️ Installation
-1. Download **`wapiar+wpnotif-v3.0.2.1.zip`** from the [Releases](https://github.com/cloudlinkd-networks/whatsapp-notification/releases) tab.  
-2. Do **not unzip** the file.  
-3. In your WordPress admin → **Plugins → Add New → Upload Plugin**.  
-4. Upload and **Install Now**.  
-5. Once installed, click **Activate Plugin**.
-
----
-
-## 🔧 Settings
-1. Go to **Gateway Tab → Enable WhatsApp**  
-2. Select **Custom WhatsApp Gateway**  
-3. Use these values:  
-
-| Setting | Value |
-|----------|--------|
-| WhatsApp Gateway URL | `https://wa.wapiar.com/send-message?` |
-| HTTP Method | `POST` |
-| Parameters | `&api_key=your-wapiar-api-key&sender={sender_id}&number={to}&message={message}` |
-| Send as Body Data | Yes |
-| Encode Message | No |
-| Phone Number Format | Include country code only |
-| Sender ID | Your phone/device number (without +) |
-
-👉 Get your API key from [https://.wapiar.com
-
-
 ---
 
 ## 🙌 Credits
